@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uzbek Food Course</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Uzbek Food</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="recipes.html">Recipes</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="course.html">Course</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Welcome to Our Uzbek Tradition Course: Discover the Flavors of Uzbekistan!</h2>
+        <p>Are you ready to explore the rich culinary traditions of Uzbekistan? Join our exclusive course and learn how to prepare three of the most beloved Uzbek dishes: <strong>Osh (Plov), Somsa, and Matava</strong>. These dishes are deeply rooted in Uzbek culture, and now you have the chance to master them in your own kitchen!</p>
+        
+        <section>
+            <h3>1. Osh (Plov) – The King of Uzbek Cuisine</h3>
+            <p><strong>Description:</strong> Osh, also known as Plov, is the national dish of Uzbekistan. This flavorful rice dish is often served at gatherings, celebrations, and everyday meals, symbolizing hospitality and tradition.</p>
+            <h4>Ingredients:</h4>
+            <ul>
+                <li>2 cups rice (preferably long-grain)</li>
+                <li>500g lamb or beef, cubed</li>
+                <li>2 large carrots, julienned</li>
+                <li>1 large onion, sliced</li>
+                <li>4 cups water</li>
+                <li>1/2 cup vegetable oil</li>
+                <li>1 head garlic (whole, unpeeled)</li>
+                <li>1 tbsp cumin seeds</li>
+                <li>1 tsp salt</li>
+                <li>1 tsp black pepper</li>
+                <li>1/2 cup chickpeas (optional)</li>
+                <li>1 handful raisins (optional)</li>
+            </ul>
+            <h4>How to Cook:</h4>
+            <ol>
+                <li>Heat oil in a large pot or kazan over medium heat.</li>
+                <li>Add the meat and cook until browned.</li>
+                <li>Stir in onions and sauté until golden brown.</li>
+                <li>Add carrots and cook for a few minutes until soft.</li>
+                <li>Pour in water, add garlic, cumin, salt, and pepper. Let simmer.</li>
+                <li>Spread the rice evenly over the meat and vegetables, without stirring.</li>
+                <li>Cook until the rice absorbs the water, then cover and let it steam for 20 minutes.</li>
+                <li>Mix everything together before serving.</li>
+            </ol>
+            <h4>Pros:</h4>
+            <p>Rich in flavor, high in protein, a one-pot meal.</p>
+            <h4>Cons:</h4>
+            <p>High in calories, can be oily.</p>
+        </section>
+        
+        <section>
+            <h3>2. Somsa – The Uzbek Pastry Delight</h3>
+            <p><strong>Description:</strong> Somsa are delicious baked pastries filled with meat, onions, and spices. They are a staple in Uzbek cuisine and are often enjoyed as a snack or appetizer.</p>
+            <h4>Ingredients:</h4>
+            <ul>
+                <li>2 cups all-purpose flour</li>
+                <li>1/2 cup water</li>
+                <li>2 tbsp vegetable oil</li>
+                <li>1 tsp salt</li>
+                <li>300g minced lamb or beef</li>
+                <li>1 large onion, finely chopped</li>
+                <li>1 tsp cumin seeds</li>
+                <li>1/2 tsp black pepper</li>
+                <li>1 egg yolk (for brushing)</li>
+                <li>Sesame seeds (optional)</li>
+            </ul>
+            <h4>How to Cook:</h4>
+            <ol>
+                <li>Mix flour, water, oil, and salt to form a dough. Let it rest for 30 minutes.</li>
+                <li>Combine minced meat, onions, cumin, salt, and pepper in a bowl.</li>
+                <li>Roll out the dough and cut into squares.</li>
+                <li>Place filling in the center of each square and fold into a triangle, sealing the edges.</li>
+                <li>Brush with egg yolk and sprinkle sesame seeds on top.</li>
+                <li>Bake at 200°C (390°F) for 25-30 minutes until golden brown.</li>
+            </ol>
+            <h4>Pros:</h4>
+            <p>Crispy texture, packed with flavor, protein-rich.</p>
+            <h4>Cons:</h4>
+            <p>Can be heavy due to meat and pastry dough.</p>
+        </section>
+        
+        <section>
+            <h3>3. Matava – The Hearty Uzbek Soup</h3>
+            <p><strong>Description:</strong> Matava is a nourishing and flavorful Uzbek soup made with vegetables, legumes, and meat. It is perfect for cold days and provides a comforting taste of home.</p>
+            <h4>Ingredients:</h4>
+            <ul>
+                <li>500g beef or lamb, cut into chunks</li>
+                <li>1 onion, chopped</li>
+                <li>2 carrots, sliced</li>
+                <li>2 potatoes, cubed</li>
+                <li>1/2 cup lentils</li>
+                <li>1 tomato, diced</li>
+                <li>1 tsp cumin</li>
+                <li>1/2 tsp salt</li>
+                <li>1/2 tsp black pepper</li>
+                <li>6 cups water</li>
+                <li>1 tbsp vegetable oil</li>
+                <li>Fresh cilantro for garnish</li>
+            </ul>
+            <h4>How to Cook:</h4>
+            <ol>
+                <li>Heat oil in a pot and brown the meat.</li>
+                <li>Add onions and cook until translucent.</li>
+                <li>Stir in carrots, potatoes, and lentils.</li>
+                <li>Pour in water and add tomatoes, cumin, salt, and pepper.</li>
+                <li>Simmer for 1-2 hours until meat is tender and flavors are well combined.</li>
+                <li>Garnish with fresh cilantro before serving.</li>
+            </ol>
+            <h4>Pros:</h4>
+            <p>Nutritious, hearty, and easy to digest.</p>
+            <h4>Cons:</h4>
+            <p>Takes time to cook, requires various ingredients.</p>
+        </section>
+        
+        <section>
+            <h3>Join Our Course Today!</h3>
+            <p>Experience the rich flavors of Uzbekistan and learn the secrets behind these delicious dishes. Sign up now and bring Uzbek tradition to your table!</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Uzbek Food. All rights reserved.</p>
+    </footer>
+</body>
+</html>
